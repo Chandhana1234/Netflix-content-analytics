@@ -62,7 +62,8 @@ Explore the dashboard — slicers allow filtering by content type, genre, countr
 Chandhana
 B.Tech Computer Science (AI & ML) | Data Analytics Enthusiast
 📍 Bengaluru, India
-🔗 LinkedIn | Naukri
+🔗 LinkedIn :https://www.linkedin.com/in/warunq01am-ehandhana-71007a2bb/
+    Naukri  :https://www.naukri.com/mnjuser/profile?id=&altresid
 
 📄 License
 This project is for educational and portfolio purposes only. Dataset sourced from IMDb public data.
