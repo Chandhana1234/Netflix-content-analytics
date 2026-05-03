@@ -57,7 +57,7 @@ Explore the dashboard — slicers allow filtering by content type, genre, countr
 
  <img width="1220" height="752" alt="netflix dashboard screenshot" src="https://github.com/user-attachments/assets/aa05d7b9-a21d-4834-87fb-d140a7f03dab" />
 
-
+ 
 👩‍💻 Author
 Chandhana
 B.Tech Computer Science (AI & ML) | Data Analytics Enthusiast
